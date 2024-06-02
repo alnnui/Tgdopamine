@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "example-bot"
+name = "Tgdopamine"
 version = "0.1.0"
 description = ""
 authors = ["Ilia Kaziamov <kaziamov@outlook.com>"]
