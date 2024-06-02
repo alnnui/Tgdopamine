@@ -3,4 +3,4 @@ install:
 	poetry install
 
 start:
-	poetry run python dop.py 
+	poetry run python example/dop.py 
