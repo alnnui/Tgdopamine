@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "Tgdopamine"
+name = "example-bot"
 version = "0.1.0"
 description = ""
 authors = ["Ilia Kaziamov <kaziamov@outlook.com>"]
 readme = "README.md"
-packages = [{include = "Tgdopamine"}]
+packages = [{include = "example_bot"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
