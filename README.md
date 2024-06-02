@@ -1,2 +1,0 @@
-# Tgdopamine
-Telegram bot
