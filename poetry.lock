@@ -1,5 +1,5 @@
 [[package]]
-name = "aiogram"
+name = "requests"
 version = "2.25.1"
 description = "Is a pretty simple and fully asynchronous framework for Telegram Bot API"
 category = "main"
